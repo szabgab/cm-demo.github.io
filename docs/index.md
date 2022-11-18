@@ -14,9 +14,10 @@ This is the second version of the page
 2. car
 3. ship
 
-* [about]
-* (about)
+* [about]   not working
+* (about)   not working
 * [About](about.md)
+* [About](/about)
 
 * I learned from [Gabor Szabo](https://github.szabgab.com/)
 
