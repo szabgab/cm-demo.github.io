@@ -19,3 +19,5 @@ This is the second version of the page
 * [About](about.md)
 
 * I learned from [Gabor Szabo](https://github.szabgab.com/)
+
+Not the famous Jazz guitarist ![Gabor Szabo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gabor_szabo.jpg/220px-Gabor_szabo.jpg)
